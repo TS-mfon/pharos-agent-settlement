@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+.private_key
+contracts/lib/
+contracts/out/
+contracts/cache/
+broadcast/
+settlement-journal.jsonl

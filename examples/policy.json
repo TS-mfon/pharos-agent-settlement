@@ -1,0 +1,11 @@
+{
+  "id": "research-agent",
+  "active": true,
+  "mode": "execute",
+  "asset": "0xcfC8330f4BCAB529c625D12781b1C19466A9Fc8B",
+  "perTransactionLimit": "5000000",
+  "totalLimit": "50000000",
+  "spent": "0",
+  "validAfter": 0,
+  "validUntil": 1900000000
+}

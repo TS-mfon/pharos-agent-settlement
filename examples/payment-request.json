@@ -1,0 +1,9 @@
+{
+  "mode": "propose",
+  "network": "atlantic",
+  "action": "payment",
+  "asset": "0xcfC8330f4BCAB529c625D12781b1C19466A9Fc8B",
+  "amount": "1000000",
+  "counterparty": "0x0000000000000000000000000000000000000001",
+  "policyRef": "research-agent"
+}

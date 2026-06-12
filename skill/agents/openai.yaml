@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pharos Agent Settlement"
+  short_description: "Secure Pharos payments, escrow, x402, and proofs"
+  default_prompt: "Use pharos-agent-settlement to safely propose this economic action on Pharos, validate it against policy, and return a machine-readable result."
